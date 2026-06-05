@@ -1,5 +1,7 @@
 # SCORBOT ER 4pc Description Package for ROS 2 Jazzy
 
+<img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/ed83bbc5-0be0-4e2e-aba4-677596a1622c" />
+
 ## Description
 
 This package contains the URDF model of the **SCORBOT ER 4pc** industrial robot developed for ROS 2 Jazzy.
